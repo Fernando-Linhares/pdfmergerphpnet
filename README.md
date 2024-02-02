@@ -6,7 +6,7 @@ Simple way to merge pdf in php lib
 
 ### Setup
 
->> You need to compile the binary before use this lib
+> You need to compile the binary before use this lib
 
 Run:
         composer compile
